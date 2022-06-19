@@ -6,6 +6,7 @@ public class Programa {
 		// TODO Auto-generated method stub
 		System.out.println("Oi AulaDezJavaSete");
 		System.out.println("Oi AulaDezJavaSeteDois");
+		System.out.println("Oi ");
 	}
 
 }
